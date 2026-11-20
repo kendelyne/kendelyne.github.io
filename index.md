@@ -1,7 +1,3 @@
----
-epic website
----
-
 #this is my epic website
 
 hi this is my website thank you for looking at it
