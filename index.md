@@ -8,4 +8,4 @@ go here: [CoolWebsite](https://www.linkedin.com/in/kendelyneschmidt/)
 
 ##below is an interesting image to look at
 
-![interesting image](https://www.gettyimages.com/detail/photo/wild-horses-running-free-royalty-free-image/1019461046?adppopup=true)
+![interesting image](https://media.gettyimages.com/id/1019461046/photo/wild-horses-running-free.jpg?s=612x612&w=gi&k=20&c=HMAYRa1NtcpRBq1lBsIjMnMDmmvQmRD3C_qhkJS1v5Q=)
